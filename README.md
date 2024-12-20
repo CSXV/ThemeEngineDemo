@@ -9,6 +9,6 @@
 3. Install [MaterialColorUtilities](https://github.com/albi005/MaterialColorUtilities)
 4. Build the project.
 5. Run the demo from.
-6. You have a small `.ddl` library that you can link to your projects.
+6. You have a small `.dll` library that you can link to your projects.
 
 ---
