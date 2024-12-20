@@ -1,4 +1,4 @@
-# Theme Engine
+# Theme Engine Demo
 
 ![Screenshot](Pics/TE_Screenshot.gif)
 
