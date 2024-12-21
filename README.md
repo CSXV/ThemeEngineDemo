@@ -2,6 +2,8 @@
 
 ![Screenshot](Pics/TE_Screenshot.gif)
 
+This is a windows form demo that uses my library [HERE](https://github.com/CSXV/ThemeEngineLibrary).
+
 ---
 ## How to use
 1. Clone this repo.
